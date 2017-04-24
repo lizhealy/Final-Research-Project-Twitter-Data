@@ -1,0 +1,5 @@
+access_token = "819236308224770048-OXlMIBMQuz83yitBfdjchFx19inuFCQ"
+access_token_secret = "7XrLl6TC2s7moBZIqxJgtp7VVARapM8KIn1QuX60aT3gq"
+consumer_key = "hmZLTSjkfA7SXSbw7PtJQjrno"
+consumer_secret = "obydPLpDNmTCG3W1HlnKbmdqbb8X2VQMkhSTyjm6w3m2macqqR"
+CONNECTION_STRING = "sqlite:///tweets.db"
